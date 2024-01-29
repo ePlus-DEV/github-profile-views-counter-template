@@ -1,11 +1,10 @@
 name: GitHub Profile Views Counter CI
 on:
   schedule:
-    - cron: '0/5 * * * *'
+    - cron: '*/5 * * * *'
   push:
     branches:
-      - main
-      - master
+      - 'main'
   workflow_dispatch:
 jobs:
   release:
