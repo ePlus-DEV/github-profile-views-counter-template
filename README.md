@@ -1,6 +1,6 @@
-# 🚀 GitHub Profile Views Counter [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
+# 🚀 GitHub Profile Views Counter [<img alt="Image of my-profile-view-counter" src="https://github.com/ePlus-DEV/my-profile-view-counter/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/ePlus-DEV/my-profile-view-counter/blob/master/readme/372372861/week.md)
 
-[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
+[![Image of my-profile-view-counter](https://github.com/ePlus-DEV/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/ePlus-DEV/my-profile-view-counter/blob/master/readme/372372861/week.md)
 
  
 Many GitHub page views counters are not stable as it seems. Any service disruptions or simply removal of these services can lose your profile views. Use this GitHub Action to record changes. It generates badges, charts, and tables for each repository and a badge for total views for your profile.
@@ -14,11 +14,11 @@ The main problem of using external services is what you do when they cut off the
 But this GitHub Profile Views Counter is different from others. It’s a public repository in your profile, and it stores all the data and SVG files. So you don’t lose anything, and it updates the page views every 6 hours. It fetches insights data of your repository from GitHub API. It records the number of unique visitors and also page views.
 
 ## Features
-**Charts —** The action generates charts for the week, month, and year. The below chart is for the week for a repository. Go to gayanvoice/my-profile-view-counter to see how it works.
+**Charts —** The action generates charts for the week, month, and year. The below chart is for the week for a repository. Go to ePlus-DEV/my-profile-view-counter to see how it works.
 
 **Tables —** The action generates charts for the week, month, and year.
 ## Setup
-**1 —** 🚀 Go to gayanvoice/github-profile-views-counter and click on **Use this template** button to create a new repository
+**1 —** 🚀 Go to ePlus-DEV/github-profile-views-counter and click on **Use this template** button to create a new repository
 
 By using a template you don’t need to create the files from scratch, and all you need is to change the configuration.
 
@@ -56,6 +56,6 @@ Go to Personal Access Tokens and click on Generate new token button. Give it any
 It will take few minutes depends on number of repositories you have entered to the workflow. It will generate total views badge, repository badges, and markdown files.
 
 ## 📄 License
-- Repository: [gayanvoice/github-profile-views-counter](https://github.com/gayanvoice/github-profile-views-counter)
-- Source - [gayanvoice/github-insights](https://github.com/gayanvoice/github-insights)
-- Code: [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
+- Repository: [ePlus-DEV/github-profile-views-counter](https://github.com/ePlus-DEV/github-profile-views-counter)
+- Source - [ePlus-DEV/github-insights](https://github.com/ePlus-DEV/github-insights)
+- Code: [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/ePlus-DEV)
