@@ -64,4 +64,4 @@ It will take few minutes depends on number of repositories you have entered to t
 
 - Repository: [ePlus-DEV/github-profile-views-counter](https://github.com/ePlus-DEV/github-profile-views-counter-template)
 - Source - [ePlus-DEV/github-profile-views-counter-action](https://github.com/ePlus-DEV/github-profile-views-counter-action)
-- Code: [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/ePlus-DEV)
+- Code: [MIT](./LICENSE) © [ePlus-DEV](https://github.com/ePlus-DEV)
