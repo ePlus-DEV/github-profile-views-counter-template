@@ -1,6 +1,6 @@
-# 🚀 GitHub Profile Views Counter [<img alt="Image of my-profile-view-counter" src="https://github.com/ePlus-DEV/my-profile-view-counter/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/ePlus-DEV/my-profile-view-counter/blob/master/readme/372372861/week.md)
+# 🚀 GitHub Profile Views Counter [<img alt="Image of view-counter" src="https://github.com/ePlus-DEV/view-counter/blob/main/graph/749706189/small/week.png" height="20">](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749706189/week.md)
 
-[![Image of my-profile-view-counter](https://github.com/ePlus-DEV/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/ePlus-DEV/my-profile-view-counter/blob/master/readme/372372861/week.md)
+[![Image of view-counter](https://github.com/ePlus-DEV/view-counter/blob/main/svg/749706189/badge.svg)](https://github.com/ePlus-DEV/view-counter/blob/main/readme/749706189/week.md)
 
  
 Many GitHub page views counters are not stable as it seems. Any service disruptions or simply removal of these services can lose your profile views. Use this GitHub Action to record changes. It generates badges, charts, and tables for each repository and a badge for total views for your profile.
@@ -17,7 +17,7 @@ But this GitHub Profile Views Counter is different from others. It’s a public 
 
 ## Features
 
-**Charts —** The action generates charts for the week, month, and year. The below chart is for the week for a repository. Go to ePlus-DEV/my-profile-view-counter to see how it works.
+**Charts —** The action generates charts for the week, month, and year. The below chart is for the week for a repository. Go to ePlus-DEV/view-counter to see how it works.
 
 **Tables —** The action generates charts for the week, month, and year.
 
