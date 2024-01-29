@@ -2,6 +2,10 @@ name: GitHub Profile Views Counter CI
 on:
   schedule:
     - cron: '0/5 * * * *'
+  push:
+    branches:
+      - main
+      - master
   workflow_dispatch:
 jobs:
   release:
@@ -17,3 +21,4 @@ jobs:
       - uses: ePlus-DEV/github-profile-views-counter-action@main
         env:
           INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
+          GITHUB_BRANCH: main
